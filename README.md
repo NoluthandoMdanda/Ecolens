@@ -8,7 +8,7 @@ Explored UI components, state management, and front‑end patterns.
 
 ### Teck Stack
 
-TypeScript
+TypeScript, JavaScript, HTML, CSS
 
 #### Setup
 
